@@ -1,4 +1,4 @@
-# Assignment-2
+# Assignment-2 & Assignment-3
 Convert Your Website Into a Basic ReSTful WebService.
 **Simple calculator API**
 ----
